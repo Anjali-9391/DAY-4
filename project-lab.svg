@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
+  <title id="title">Students working together with laptops</title>
+  <desc id="desc">Two students collaborate on a technology project using laptops in a classroom.</desc>
+  <rect width="640" height="360" fill="#faf9f6"/>
+  <rect x="80" y="47" width="480" height="115" fill="#632b3d"/>
+  <path d="M115 87h142M115 119h210" stroke="#efaa71" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="211" cy="216" r="25" fill="#d98f6d"/><circle cx="421" cy="216" r="25" fill="#d98f6d"/>
+  <path d="M168 306c4-47 19-70 43-70s39 23 43 70zM378 306c4-47 19-70 43-70s39 23 43 70z" fill="#be5d3a"/>
+  <path d="M180 273h125l-14 36H194zM335 273h125l-14 36H349z" fill="#202326"/>
+  <path d="M194 279h97v22h-97zM349 279h97v22h-97z" fill="#efaa71"/>
+  <path d="M104 324h432" stroke="#632b3d" stroke-width="10" stroke-linecap="round"/>
+</svg>

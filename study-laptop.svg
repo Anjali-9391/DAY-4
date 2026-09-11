@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
+  <title id="title">Student studying with a laptop</title>
+  <desc id="desc">A student reads notes and works on a laptop at a library desk.</desc>
+  <rect width="640" height="360" fill="#f4f0e9"/>
+  <rect x="78" y="58" width="150" height="128" fill="#632b3d"/>
+  <path d="M105 91h96M105 121h72M105 151h51" stroke="#efaa71" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="353" cy="108" r="32" fill="#d98f6d"/>
+  <path d="M319 103c7-27 24-42 44-42 22 0 35 17 36 41-23-8-51-8-80 1z" fill="#202326"/>
+  <path d="M290 166c12-30 31-44 63-44s51 14 63 44v74H290z" fill="#632b3d"/>
+  <path d="M305 178l-54 58M401 178l54 58" stroke="#d98f6d" stroke-width="16" stroke-linecap="round"/>
+  <path d="M213 237h242l-25 57H238z" fill="#be5d3a"/>
+  <path d="M267 211h134v82H267z" fill="#202326"/>
+  <path d="M282 226h104v52H282z" fill="#efaa71"/>
+  <path d="M252 294h164" stroke="#632b3d" stroke-width="10" stroke-linecap="round"/>
+  <path d="M91 318h458" stroke="#202326" stroke-width="9" stroke-linecap="round"/>
+</svg>

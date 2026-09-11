@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
+  <title id="title">Student reading in a library</title>
+  <desc id="desc">A student sits at a desk reading an open book beside a warm library lamp.</desc>
+  <rect width="640" height="360" fill="#f4f0e9"/>
+  <circle cx="504" cy="86" r="48" fill="#efaa71" opacity=".35"/>
+  <path d="M96 270h448" stroke="#632b3d" stroke-width="10" stroke-linecap="round"/>
+  <path d="M204 270v48M436 270v48" stroke="#632b3d" stroke-width="9" stroke-linecap="round"/>
+  <path d="M156 270h328l-28 42H184z" fill="#be5d3a"/>
+  <path d="M270 178c0-46 28-73 64-73s64 27 64 73v53H270z" fill="#202326"/>
+  <circle cx="334" cy="120" r="31" fill="#d98f6d"/>
+  <path d="M301 112c6-27 22-42 42-42 24 0 39 18 40 43-21-10-48-11-82-1z" fill="#202326"/>
+  <path d="M288 177c-27 25-39 56-37 93h166c2-37-10-68-37-93-27 19-65 19-92 0z" fill="#632b3d"/>
+  <path d="M289 205l-59 41M379 205l59 41" stroke="#d98f6d" stroke-width="17" stroke-linecap="round"/>
+  <path d="M224 246l61-30 49 29-61 31zM444 246l-61-30-49 29 61 31z" fill="#fff" stroke="#632b3d" stroke-width="4"/>
+  <path d="M334 245v31" stroke="#632b3d" stroke-width="4"/>
+  <path d="M496 120v112M465 232h62M477 232l-12 38M515 232l12 38" stroke="#be5d3a" stroke-width="8" stroke-linecap="round"/>
+  <path d="M466 120h60l-15-25h-30z" fill="#be5d3a"/>
+  <path d="M496 95V69" stroke="#be5d3a" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="496" cy="64" r="7" fill="#efaa71"/>
+</svg>
