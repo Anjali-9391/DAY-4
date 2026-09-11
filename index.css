@@ -17,7 +17,7 @@ h2{
 }
 .card{
     width: 280px;
-    background-color: wheat;
+    background-color: palevioletred;
     padding: 15px;
     border-radius: 15px;
     transition: transform .5s, border-shadow .5s;
